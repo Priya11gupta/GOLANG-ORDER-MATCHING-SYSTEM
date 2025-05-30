@@ -22,8 +22,7 @@ A simplified order matching system implemented in Go that matches buy and sell o
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/order-matching.git
-cd order-matching
+git clone https://github.com/Priya11gupta/GOLANG-ORDER-MATCHING-SYSTEM.git
 ```
 
 2. Install dependencies:
